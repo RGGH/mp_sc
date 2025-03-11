@@ -1,5 +1,6 @@
 # WebSocket Server in Rust
 
+
 ## Overview
 This project is a simple WebSocket server implemented in Rust using `tokio`, `tokio-tungstenite`, and `futures-util`. It supports multiple clients and broadcasts messages to all connected clients.
 
@@ -74,6 +75,9 @@ This project is licensed under the MIT License.
 
 ## Contributing
 Feel free to submit issues and pull requests to improve the project!
+
+![Screenshot from 2025-03-11 23-16-33](https://github.com/user-attachments/assets/a8d5687e-967f-4d33-a39c-5fb65a268331)
+
 
 ---
 Enjoy building with Rust! 🚀
