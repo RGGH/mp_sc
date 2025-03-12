@@ -4,6 +4,8 @@
 ## Overview
 This project is a simple WebSocket server implemented in Rust using `tokio`, `tokio-tungstenite`, and `futures-util`. It supports multiple clients and broadcasts messages to all connected clients.
 
+https://youtu.be/T4SitRiiXVw
+
 ## Features
 - Handles multiple WebSocket connections concurrently
 - Assigns a unique `UUID` to each client
